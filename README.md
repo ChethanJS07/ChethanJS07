@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChethanJS07
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning ZC and Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Big Projects
 - 📫 How to reach me [...](https://www.linkedin.com/in/chethan-js-354056250/)
 
 <!---
