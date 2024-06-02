@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jschethan75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jschethan75" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chethan js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chethan js" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chethan-js-354056250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chethan js" height="30" width="40" /></a>
 <a href="https://instagram.com/imchethanjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imchethanjs" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jschethan75" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jschethan75" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/chethanjs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="chethanjs" height="30" width="40" /></a>
