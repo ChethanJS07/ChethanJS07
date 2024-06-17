@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/jschethan75" target="blank"><img src="https://img.shields.io/twitter/follow/jschethan75?logo=twitter&style=for-the-badge" alt="jschethan75" /></a> </p>
 
-- 🔭 I’m currently working on **Springboot Technology**
+- 🔭 I’m currently working on **Springboot Technology and Java Full Stack Development**
 
 - 🌱 I’m currently learning **Springboot and MicroServices**
 
